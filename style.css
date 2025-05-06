@@ -309,7 +309,7 @@ footer {
 }
 
 .footer__logo {
-   
+   margin-bottom: 20;
 }
 
 .footer__row {
@@ -340,7 +340,7 @@ footer {
 }
 
 .footer__logo--popper {
-    position: absolute; 
+    position: right; 
     right: 0;
     top: 30px;
     font-weight: 700px;
